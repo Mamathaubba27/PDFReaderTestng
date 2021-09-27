@@ -27,7 +27,8 @@ public class PDF_Reader {
 		/*	System.setProperty("webdriver.chrome.driver","C:\\Users\\Ravee\\Desktop\\selenium_java_maven\\PDF_Reader\\Drivers\\chromedriver.exe");
 		WebDriver driver= new ChromeDriver();
 		driver.get("file:///C:/Users/Ravee/Desktop/Uploading%20Documents%20Format.pdf"); */
-	 System.setProperty("webdriver.gecko.driver","C:\\Users\\Ravee\\Desktop\\selenium_java_maven\\PDF_Reader\\Drivers\\geckodriver.exe");
+	// System.setProperty("webdriver.gecko.driver","C:\\Users\\Ravee\\Desktop\\selenium_java_maven\\PDF_Reader\\Drivers\\geckodriver.exe");
+		System.setProperty("webdriver.gecko.driver", "C:\\Users\\Ravee\\git\\PDFReaderTestng\\PDF_Reader\\Drivers\\geckodriver.exe");
 	 driver = new FirefoxDriver();
      driver.get("file:///C:/Users/Ravee/Desktop/Uploading%20Documents%20Format.pdf"); 
 	// driver.get("http://www.axmag.com/download/pdfurl-guide.pdf");

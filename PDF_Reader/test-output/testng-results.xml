@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20303" started-at="2021-09-23T13:33:00Z" finished-at="2021-09-23T13:33:20Z">
+  <suite name="Default suite" duration-ms="79357" started-at="2021-09-27T12:04:46Z" finished-at="2021-09-27T12:06:05Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20303" started-at="2021-09-23T13:33:00Z" finished-at="2021-09-23T13:33:20Z">
+    <test name="Default test" duration-ms="79357" started-at="2021-09-27T12:04:46Z" finished-at="2021-09-27T12:06:05Z">
       <class name="reading_PdfDocument.PDF_Reader">
-        <test-method status="PASS" signature="testSetUp()[pri:0, instance:reading_PdfDocument.PDF_Reader@523884b2]" name="testSetUp" is-config="true" duration-ms="16439" started-at="2021-09-23T13:33:00Z" finished-at="2021-09-23T13:33:16Z">
+        <test-method status="PASS" signature="testSetUp()[pri:0, instance:reading_PdfDocument.PDF_Reader@523884b2]" name="testSetUp" is-config="true" duration-ms="57070" started-at="2021-09-27T12:04:46Z" finished-at="2021-09-27T12:05:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSetUp -->
-        <test-method status="PASS" signature="readPDFTest()[pri:0, instance:reading_PdfDocument.PDF_Reader@523884b2]" name="readPDFTest" duration-ms="1293" started-at="2021-09-23T13:33:16Z" finished-at="2021-09-23T13:33:18Z">
+        <test-method status="PASS" signature="readPDFTest()[pri:0, instance:reading_PdfDocument.PDF_Reader@523884b2]" name="readPDFTest" duration-ms="19267" started-at="2021-09-27T12:05:43Z" finished-at="2021-09-27T12:06:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- readPDFTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:reading_PdfDocument.PDF_Reader@523884b2]" name="tearDown" is-config="true" duration-ms="2503" started-at="2021-09-23T13:33:18Z" finished-at="2021-09-23T13:33:20Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:reading_PdfDocument.PDF_Reader@523884b2]" name="tearDown" is-config="true" duration-ms="2926" started-at="2021-09-27T12:06:03Z" finished-at="2021-09-27T12:06:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
